@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="libs-release-local" />
+      <option name="name" value="libs-release-local" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/ps-maven-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshot" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/ps-libs-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/libs-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="core-libs-release-local" />
+      <option name="name" value="core-libs-release-local" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/ordermgmt-libs-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ps-dist-release-local" />
+      <option name="name" value="ps-dist-release-local" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/ps-dist-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ps-libs-release" />
+      <option name="name" value="ps-libs-release" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/ps-libs-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ordermgmt-libs-snapshot" />
+      <option name="name" value="ordermgmt-libs-snapshot" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/ordermgmt-libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ps-dist-snapshot-local" />
+      <option name="name" value="ps-dist-snapshot-local" />
+      <option name="url" value="https://hansentech.jfrog.io/artifactory/ps-dist-snapshot-local/" />
+    </remote-repository>
+  </component>
+</project>

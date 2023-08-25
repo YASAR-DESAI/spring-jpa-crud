@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-projects.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../project-vault/spring-boot-projects/spring-practice-project/spring-practice-project.iml" filepath="$PROJECT_DIR$/../../project-vault/spring-boot-projects/spring-practice-project/spring-practice-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-app/spring-rest-app.iml" filepath="$PROJECT_DIR$/spring-rest-app/spring-rest-app.iml" />
+    </modules>
+  </component>
+</project>
