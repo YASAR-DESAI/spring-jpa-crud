@@ -31,6 +31,7 @@ public class SpringJpaDemoApplication {
 			//updateLastName(studentDao);
 			//updateFirsName(studentDao);
 			//deleteStudent(studentDao);
+			//createStudent(studentDao);
 
 		};
 	}
@@ -47,8 +48,8 @@ public class SpringJpaDemoApplication {
 	private void createStudent(StudentDao studentDao) {
 
 		System.out.println("Creating a new student...");
-		Student theStudent = new Student("Sidney","Baker",
-				"sid.baker@mi5.com");
+		Student theStudent = new Student("Jimmy","Butler",
+				"jim.butler@nba.com");
 		System.out.println("Saving the student...");
 		studentDao.save(theStudent);
 

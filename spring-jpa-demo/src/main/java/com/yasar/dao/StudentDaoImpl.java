@@ -53,6 +53,11 @@ public class StudentDaoImpl implements StudentDao{
 
     }
 
+    @Transactional
+    public Student update(Student student) {
+        return entityManager.merge(student);
+    }
+
     @Override
     @Transactional
     public void updateFirstName(int id, String firstName) {
